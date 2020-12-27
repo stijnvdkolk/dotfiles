@@ -1,0 +1,11 @@
+[Added Associations]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;
+
+[Default Applications]
+inode/directory=org.kde.dolphin.desktop;
+x-scheme-handler/http=firefox.desktop;
+x-scheme-handler/https=firefox.desktop;
+x-scheme-handler/mailto=thunderbird.desktop;
+x-scheme-handler/msteams=teams.desktop
+x-scheme-handler/notion=notion-app.desktop
