@@ -13,6 +13,7 @@ AUTO_LS_COMMANDS=(ls)
 
 source ~/.zplug/init.zsh
 source ~/.dotfiles/scripts/aliases.sh
+source ~/.dotfiles/scripts/path.sh
 source ~/.dotfiles/scripts/nvm.sh
 
 # Plugins
