@@ -11,6 +11,8 @@ HISTSIZE=10000
 SAVEHIST=10000
 AUTO_LS_COMMANDS=(ls)
 
+export GPG_TTY=$(tty)
+
 source ~/.zplug/init.zsh
 source ~/.dotfiles/scripts/aliases.sh
 source ~/.dotfiles/scripts/path.sh
