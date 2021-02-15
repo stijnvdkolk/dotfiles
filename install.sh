@@ -30,7 +30,7 @@ if [ -z "$PACKAGES" ]; then
 fi
 
 # Install selected packages
-# yay -S $PACKAGES
+yay -S $PACKAGES
 
 # Install zplug
 git clone https://github.com/zplug/zplug ~/.zplug
