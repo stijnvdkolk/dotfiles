@@ -1,5 +1,5 @@
 # Global Variables
-export EDITOR='code-insiders'
+export EDITOR='micro'
 export TERMINAL="alacritty"
 export BROWSER="firefox"
 export SSH_KEY_PATH="~/.ssh/id_rsa"
